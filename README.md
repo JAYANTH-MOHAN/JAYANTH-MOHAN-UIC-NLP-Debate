@@ -1,1 +1,3 @@
-# JAYANTH-MOHAN-UIC-NLP-Debate
+To install :
+
+pip install pandas datasets groq
